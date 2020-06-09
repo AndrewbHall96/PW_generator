@@ -4,3 +4,4 @@ This project generates a random password based on user-selected criteria. It run
 
 I approached this code first by psuedo coding, identifying which criteria the password needed to meet. Following this, I defined the necessary variables along with "confirm's" and "prompt's"
 
+![](images/Screenshot%202020-06-08%20at%2920.21.02.png)
